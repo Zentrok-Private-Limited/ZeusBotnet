@@ -97,8 +97,8 @@ export default function ZeusPage() {
                 downloads. Once a victim opened a malicious attachment or
                 visited a compromised website, Zeus silently installed itself on
                 the computer without the user's knowledge. It cannot be
-                removed/fixed through any Antivirus Security like Norton,McAfee
-                etc, However it can be cleaned one time by using tools and keys
+                removed/fixed through any Antivirus Security like Norton,McAfee,
+                Webroot, Avast, Malwarebytes etc, However it can be cleaned one time by using tools and keys
                 provided by companies such as Websphere, But for a permanent
                 fixation it requires a Private IP Licence Key & Firewall to
                 remove and secure it.
