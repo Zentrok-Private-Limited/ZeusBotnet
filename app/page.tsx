@@ -98,10 +98,10 @@ export default function ZeusPage() {
                 visited a compromised website, Zeus silently installed itself on
                 the computer without the user's knowledge. It cannot be
                 removed/fixed through any Antivirus Security like Norton,McAfee,
-                Webroot, Avast, Malwarebytes etc, However it can be cleaned one time by using tools and keys
-                provided by companies such as Websphere, But for a permanent
-                fixation it requires a Private IP Licence Key & Firewall to
-                remove and secure it.
+                Webroot, Avast, Malwarebytes etc, However it can be cleaned one
+                time by using tools and keys provided by companies such as
+                Websphere, But for a permanent fixation it requires a Private IP
+                Licence Key & Firewall to remove and secure it.
               </p>
             </section>
 
@@ -281,6 +281,33 @@ export default function ZeusPage() {
               </p>
             </section>
 
+            <section id="printer-impact" className="mb-10">
+              <h2 className="text-3xl font-serif border-b mb-4 pb-2">
+                Impact on Printer Functionality
+              </h2>
+
+              <div className="border-l-4 border-orange-500 bg-orange-50 p-6 rounded-r-md">
+                <p>
+                  A Zeus (Zbot) malware infection can indirectly affect printer
+                  functionality by corrupting printer driver files or Printer
+                  Spooler components, causing the Print Spooler service to stop
+                  unexpectedly, blocking driver installation or updates,
+                  disabling printing-related services, and altering network or
+                  firewall settings that prevent communication with network
+                  printers.
+                </p>
+
+                <p className="mt-4">
+                  In some cases, Zeus may also download additional malware that
+                  further damages system stability, leading to symptoms such as
+                  printers appearing offline, missing or unavailable drivers,
+                  repeated Print Spooler crashes, failed driver installations,
+                  and print jobs remaining stuck in the queue or never printing.
+                </p>
+              </div>
+            </section>
+
+
             {/* Section 6 */}
             <section id="protection" className="mb-10">
               <h2 className="text-3xl font-serif border-b mb-4 pb-2">
@@ -317,6 +344,7 @@ export default function ZeusPage() {
               </div>
             </section>
 
+            
             {/* Conclusion */}
             <section id="conclusion">
               <h2 className="text-3xl font-serif border-b mb-4 pb-2">
