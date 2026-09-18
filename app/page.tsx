@@ -103,6 +103,22 @@ export default function ZeusPage() {
                 Websphere, But for a permanent fixation it requires a Private IP
                 Licence Key & Firewall to remove and secure it.
               </p>
+
+              <p>
+                The Zeus botnet can lead to serious security and system-level
+                issues on compromised Windows computers. Once the system is
+                breached, malicious activity may interfere with email accounts
+                and other sensitive information, potentially enabling
+                unauthorized access or theft of credentials. The malware can
+                also disrupt Windows system configuration and services by
+                modifying, disabling, or corrupting critical system components
+                and driver files. In some cases, this disruption may affect
+                audio-related drivers and services, causing problems with sound
+                functionality. Such changes can reduce system stability,
+                interfere with normal Windows operations, and make it difficult
+                for legitimate users or administrators to restore affected
+                services.
+              </p>
             </section>
 
             <section id="printer-impact" className="mb-10">
@@ -343,7 +359,6 @@ export default function ZeusPage() {
               </div>
             </section>
 
-            
             {/* Conclusion */}
             <section id="conclusion">
               <h2 className="text-3xl font-serif border-b mb-4 pb-2">
