@@ -88,7 +88,7 @@ export default function ZeusPage() {
 
               <p>
                 The primary objective of Zeus was to infect computers running
-                the Windows operating system and secretly collect confidential
+                the Windows & MAC operating system and secretly collect confidential
                 information such as usernames, passwords, credit card details,
                 and banking credentials. Unlike traditional viruses that focus
                 on damaging systems, Zeus focused on financial theft and cyber
@@ -106,16 +106,16 @@ export default function ZeusPage() {
 
               <p>
                 The Zeus botnet can lead to serious security and system-level
-                issues on compromised Windows computers. Once the system is
+                issues on compromised Windows & MAC computers. Once the system is
                 breached, malicious activity may interfere with email accounts
                 and other sensitive information, potentially enabling
                 unauthorized access or theft of credentials. The malware can
-                also disrupt Windows system configuration and services by
+                also disrupt Windows & MAC system configuration and services by
                 modifying, disabling, or corrupting critical system components
                 and driver files. In some cases, this disruption may affect
                 audio-related drivers and services, causing problems with sound
                 functionality. Such changes can reduce system stability,
-                interfere with normal Windows operations, and make it difficult
+                interfere with normal Windows & MAC operations, and make it difficult
                 for legitimate users or administrators to restore affected
                 services.
               </p>
@@ -257,7 +257,7 @@ export default function ZeusPage() {
                     year: "2007",
                     title: "Zeus First Discovered",
                     description:
-                      "Zeus emerged as a banking Trojan designed to steal online banking credentials and financial information from Windows systems.",
+                      "Zeus emerged as a banking Trojan designed to steal online banking credentials and financial information from Windows & MAC systems.",
                   },
                   {
                     year: "2009",
